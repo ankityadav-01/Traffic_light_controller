@@ -43,5 +43,5 @@ traffic-light-controller/
 ## 📈 Future Scope
 - FPGA implementation
 - Smart traffic system with sensors
-- IoT based traffic monitoring
+- IoT based traffic monitoring.
 
